@@ -1,0 +1,143 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# OS Generated
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =========================
+# Data Files (large files)
+# =========================
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+data/
+dataset/
+csvs/
+
+# =========================
+# Model Files (large files)
+# =========================
+*.joblib
+*.pkl
+*.pickle
+*.onnx
+*.h5
+*.pt
+*.pth
+models/
+
+# =========================
+# Logs and Cache
+# =========================
+*.log
+logs/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+*.env
+
+# =========================
+# Secrets and Credentials
+# =========================
+*.pem
+*.key
+secrets/
+credentials/
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+
+# =========================
+# Build outputs
+# =========================
+*.manifest
+*.spec
+
+# =========================
+# Documentation builds
+# =========================
+docs/_build/
+site/
