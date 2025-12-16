@@ -56,6 +56,8 @@ pip install -r requirements.txt
 
 ## Execução
 
+Observação: Pelo tamanho do modelo, não foi possível subi-lo para o repositório GitHub. Então é necessário rodar o notebook `Airbnb analysis and Prediction.ipynb` para gerar os arquivos de modelo na pasta `models/`.
+
 ```
 cd backend
 
